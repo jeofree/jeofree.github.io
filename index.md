@@ -1,3 +1,3 @@
-# Courageous, Watchful, and Secretely Free
+# Courageous, watchful, & secretely Free
 
 ### Useful or interesting things
