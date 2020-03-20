@@ -29,7 +29,7 @@ For a recent OpenAPI 3.0 (Formerly Swagger 2.0) Spec and Documentation:
 
 ## Installation Guide
 
-<img src="samples/sphinx_slate_sample.png" alt="" width="726">
+<img src="sphinx_slate_sample.png" alt="" width="726">
 
 _A screenshot of an installation guide written and published using Slate and Python/Sphinx_
 
